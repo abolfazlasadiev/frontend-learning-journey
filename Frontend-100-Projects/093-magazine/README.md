@@ -1,0 +1,10 @@
+# magazine
+
+## Goal
+
+-
+
+## Notes
+
+-
+
